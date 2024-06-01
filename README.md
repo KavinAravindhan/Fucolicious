@@ -1,4 +1,4 @@
-# Fucolicious 🍔🚁
+# Fucolicious 🍔
 
 ![Build Status](https://img.shields.io/badge/build-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -8,7 +8,7 @@
 
 Fucolicious is not just another food delivery app. It is a customizable food delivery mobile app developed as part of my Freshman year project. With Fucolicious, you can customize literally anything in your order, from the temperature of your coffee to the intensity of the flavor in your ice cream, the type of sugar in your coffee, and every layer of your burger.
 
-## Key Features 🌟
+## Key Features
 - **Extensive Customization Options**
 - **Voice Assistant Integration with Google Assistant**
 - **Drone Delivery (future implementation)**
@@ -21,7 +21,7 @@ Fucolicious is not just another food delivery app. It is a customizable food del
 - **Voice Assistant:** Google Cloud's Dialogflow
 - **UI Design:** Adobe XD, Adobe Photoshop
 
-## Installation Instructions 🚀
+## Installation Instructions
 
 To get started with Fucolicious, follow these steps:
 
@@ -53,9 +53,23 @@ To get started with Fucolicious, follow these steps:
 5. **Place Your Order:** After confirming, proceed to place your order for delivery.
 6. **Voice Command:** Alternatively, you can use voice commands to perform the same steps seamlessly.
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Images
+
+### Welcome
+![Home Screen](images\Welcome.png)
+
+### Home Screen
+![Home Screen](images\Home.png)
+
+### Customization Screen
+![Customization Screen](placeholder_customization_screen_image_url)
+
+### Voice Assistant
+![Voice Assistant](placeholder_voice_assistant_image_url)
 
 ## Links 🔗
 
