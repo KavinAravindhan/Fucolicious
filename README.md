@@ -42,7 +42,7 @@ To get started with Fucolicious, follow these steps:
    flutter run
    ```
 
-## How to Use the App 📝
+## How to Use the App
 1. **Sign Up:** Start by signing up using your Google account or providing your email and creating a password.
 2. **Select Your Meal:** Choose from a variety of options including coffee, ice cream, or a burger.
 3. **Customize Your Order:**
@@ -57,7 +57,7 @@ To get started with Fucolicious, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Application Images 🖼️
+## Application Images
 
 ![Fucolicious](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Fucolicious.png)
 
