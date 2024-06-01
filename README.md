@@ -57,19 +57,19 @@ To get started with Fucolicious, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Images
+## Application Images 🖼️
 
-### Welcome
-![Home Screen](images\Welcome.png)
+![Fucolicious](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Fucolicious.png)
 
-### Home Screen
-![Home Screen](images\Home.png)
+![Welcome Screen](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Welcome.png)
 
-### Customization Screen
-![Customization Screen](placeholder_customization_screen_image_url)
+![Home Screen](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Home.png)
 
-### Voice Assistant
-![Voice Assistant](placeholder_voice_assistant_image_url)
+![Coffee Screen](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Coffee.png)
+
+![Burger Screen](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Burger.png)
+
+![Ice-Cream Screen](https://github.com/KavinAravindhan/Fucolicious/blob/master/images/Ice-Cream.png)
 
 ## Links 🔗
 
