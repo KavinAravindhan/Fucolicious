@@ -27,11 +27,11 @@ To get started with Fucolicious, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/KavinAravindhan/fucolicious.git
+   git clone https://github.com/KavinAravindhan/Fucolicious.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd fucolicious
+   cd Fucolicious
    ```
 3. **Install dependencies:**
    ```sh
