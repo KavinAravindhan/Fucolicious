@@ -21,7 +21,7 @@ Fucolicious is not just another food delivery app. It is a customizable food del
 - **Voice Assistant:** Google Cloud's Dialogflow
 - **UI Design:** Adobe XD, Adobe Photoshop
 
-## Installation Instructions
+## Installation
 
 To get started with Fucolicious, follow these steps:
 
